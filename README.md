@@ -1,6 +1,8 @@
-Here are the changes you will need to make on your site in the variable.tf file.
+Here are the changes you will need to make in your Terraform Files; in the variable.tf file.
 
-You will need to have and enter your own domain name. My domain name in this example is devops1.link.
+You will need to have and enter your own domain name. 
+
+My domain name in this example is devops1.link.
 
 You also will need to enter your own subnet name which you can find under your VPC section in AWS
 
